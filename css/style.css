@@ -1,0 +1,22 @@
+html { box-sizing: border-box; font-size: 16px; font-family: 'Noto Sans KR', sans-serif; scroll-behavior: smooth;}
+body {background-color: #e9ecef;}
+a:hover {text-decoration: none;}
+span {display: block;}
+.jumbotron {padding: 4rem 0 !important;}
+.w-77{width: 77% !important;}
+.w-83{width: 83% !important;}
+.m-10{ margin-top:150px;}
+.product h2{ text-transform: uppercase; font-size: 36px; font-weight: bold; color: #6c757d !important;}
+.product p{ color: #6c757d; font-size: 1.2rem;}
+
+#gelMain{padding: 0 !important;}
+#gallery h3{ text-transform: uppercase; font-size: 36px; font-weight: bold; color: #6c757d !important;}
+.img-wrapper{overflow: hidden;}
+.img-wrapper img{transition:transform .4s ease; width: 100%; height: auto;}
+.img-wrapper img:hover{ transform: scale(1.2); cursor: zoom-in;}
+.row.no-gutters [class*=col-]{ padding-left: 0; padding-right: 0;}
+.container-fluid{ padding-left: 0; padding-right:0;}
+.text-box{position: absolute; top: 50%; left:80%; transform: translate(-50%,-50%);}
+.text-box h5{ font-size: 1.5rem; color: #333; font-weight: bold;}
+.text-box h2{ font-size: 3rem; color: #333; font-weight: bold;}
+
